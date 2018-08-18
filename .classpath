@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Levi/Downloads/Staff+.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Levi/Desktop/Test Minecraft Server/spigot.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Levi/Downloads/FactionsOne-v1.2.1-1.8.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
